@@ -1,0 +1,145 @@
+body{
+    background:#f45590;
+}
+#first{
+    text-align:center;color:black;font-family:'PT Sans', sans-serif;
+}
+#star{
+    float:left;
+}
+
+#random{
+    clear:left;
+}
+
+.navbar {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+     position: fixed;
+    top: 50px;
+    width:50;
+}
+a:hover{
+    color:white;
+}
+#game{
+    text-align:center;
+    font-family:'PT Sans', sans-serif;
+}
+
+#rock{
+    float:right;
+}
+
+h1 {
+    text-align:center;
+    border-style:groove;
+    border-color:black;
+    background-color: white;
+}
+a {
+    
+    color: blue;
+    
+    text-decoration: none;
+}
+li{
+    float:left;
+     
+}
+
+.gta{
+    font-family:'PT Sans', sans-serif;
+    font-size:45px;
+}
+
+#cover{
+    height:320;
+    background-image:url(images/rocks.png);
+    background-repeat:no-repeat;
+    background-size:808px 310px;
+}
+ #done{
+     color:black;
+ }
+ .clear{
+     clear: left;
+     
+ }
+ .float{
+     float:left;
+ }
+ #dog{
+    margin-left: 300px;
+ }
+ .floatr{
+     float: right;
+ }
+ #cat{
+     margin-right:300px;
+ }
+ .rat{
+     float:left;
+ }
+ .pig{
+     clear:right;
+ }
+ 
+ p{
+    background-color: white;
+    border: solid 0px black;
+ }
+ 
+ 
+#navbar{
+    background-image:url("logo.png");
+    background-repeat: no-repeat;
+    background-size: 850px 140px;
+    background-position: 50% 37%;
+     text-align: center;
+    background-color:#f45590; 
+     position: relative;
+      top: 20px;
+  font-family: 'Oswald', sans-serif;
+
+  height: 50px;
+  border: 10px #FF2F6E double;
+  }
+  
+  #navbar a{
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 20px;
+        position: relative;
+       padding: 5px 20px;
+       top:22;
+       color:white;
+  }
+#navbar a:hover{
+    color:#DBE810;
+     transition: 700ms;
+    border: #DBE810 solid 5px;
+}
+    #footer{
+        height: 100px;
+        background-color: red;
+         
+        
+    }
+ 
+.pos{
+    display:block;
+    width: 380px;
+    position: relative;
+    top:10px;
+    margin:auto;
+}
+
+#social{
+    margin-left: 10px;
+    margin-right: 10px;
+}

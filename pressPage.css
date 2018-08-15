@@ -1,0 +1,115 @@
+body{
+    background-color: #f45590;
+} 
+
+h1{background-color:#000000;
+    padding:4;margin:30;
+    text-align:center;
+    font-size:50px;
+    border:solid #efeded  10px;
+    color: #f45590;
+} 
+        
+
+#info{
+    float:left;
+    width:50%;
+    font-size:45;
+}
+#rock{
+    margin-right:190px;
+    
+}
+ul{padding-right: 60px;
+margin-left: 40px;}
+
+#hu{
+    clear:left;
+    float:left;
+}
+
+#games{
+    position: relative;
+    top:50px;
+ font-size: 60px;
+ padding:50px;
+ 
+ 
+}
+
+.second{
+    border: 0px solid black;
+}
+ 
+.clearleft{
+    clear:left;
+    font-size: 60px
+    
+}
+
+.resiz{
+    width:390;
+height:399;
+
+}
+#tu{
+    float:left;
+}
+#fe{
+    float: center;
+}
+        
+  
+#navbar{
+    background-image:url("logo.png");
+    background-repeat: no-repeat;
+    background-size: 850px 140px;
+    background-position: 50% 37%;
+     text-align: center;
+    background-color:#f45590; 
+     position: relative;
+      top: 20px;
+  font-family: 'Oswald', sans-serif;
+
+  height: 80px;
+  border: 10px #FF2F6E double;
+  }
+  
+  #navbar a{
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 20px;
+        position: relative;
+       padding: 5px 20px;
+       top:22;
+       color:white;
+  }
+#navbar a:hover{
+    color:#DBE810;
+     transition: 700ms;
+    border: #DBE810 solid 5px;
+}
+    #footer{
+        height: 100px;
+        background-color: red;
+         
+        
+    }
+ 
+.pos{
+    display:block;
+    width: 380px;
+    position: relative;
+    top:10px;
+    margin:auto;
+}
+
+#social{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+      
+        
+        
+        
+        
